@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "vite-project",
+=======
+  "name": "portfolio",
+>>>>>>> bf98eae (Updates for today)
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,8 +14,21 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "react": "^19.2.7",
     "react-dom": "^19.2.7"
+=======
+    "@radix-ui/react-toast": "^1.2.18",
+    "@tailwindcss/vite": "^4.3.2",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^1.23.0",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "react-router-dom": "^7.18.1",
+    "tailwind-merge": "^3.6.0",
+    "tailwindcss": "^4.3.2"
+>>>>>>> bf98eae (Updates for today)
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
